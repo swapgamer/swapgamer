@@ -1,5 +1,5 @@
 
-# 👋 Welcome to my GitHub! I'm Swapnamoy Kar (![Technology animation](assets/github-dotnet-tech-collage.gif))
+# 👋 Welcome to my GitHub! I'm Swapnamoy Kar ![Technology animation](assets/github-dotnet-tech-collage.gif)
 
 ## 💻 .NET Full-Stack Developer | ⚙️ ASP.NET Core & REST APIs | ☁️ Microsoft Azure
 
