@@ -1,7 +1,8 @@
+![Technology animation](assets/github-dotnet-tech-collage.gif)
 
-# 👋 Welcome to my GitHub! I'm Swapnamoy Kar ![Technology animation](assets/github-dotnet-tech-collage.gif)
+# 👋 Welcome to my GitHub! I'm Swapnamoy Kar
 
-## 💻 .NET Full-Stack Developer | ⚙️ ASP.NET Core & REST APIs | ☁️ Microsoft Azure
+## 💻 .NET Full-Stack Developer | ⚙️ ASP.NET Core | 🅰️ Angular |  ☁️ Microsoft Azure
 
 Results-driven .NET Full-Stack Developer with almost 3 years of experience building and maintaining REST APIs, backend modules, and web applications using C#, ASP.NET Core, and Entity Framework Core. I also work with Angular and React front ends, SQL Server, JWT-based authentication and authorization, Git, and Microsoft Azure deployments.
 
